@@ -57,6 +57,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
 
+## Nebula Graph 学习路径
+
+[![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
+
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Nebula Graph 的 Java 数据解析实践与指导](https://siwei.io/nebula-java-happy-parsing-guide/)
@@ -66,6 +70,8 @@
 - [Nebula Holdshare Dataset，图数据库的股权穿透](https://siwei.io/nebula-holdshare-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## Music I am listenning
 <br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div>
 <br/>
