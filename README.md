@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/1651790/145385868-0d3ae801-ed26-4f68-9848-89b53fdf6aed.png" align="center" style="width: 100%" />
-</div>
+[![siwei.io](https://user-images.githubusercontent.com/1651790/145385868-0d3ae801-ed26-4f68-9848-89b53fdf6aed.png)](https://siwei.io)
 
 ### <div align="center">I'm Wey, I like building things 👨‍💻, troubleshoot and singing.</div>
 
