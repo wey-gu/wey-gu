@@ -10,7 +10,11 @@
 - ⚡ Check out the toy/sample projects help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://siwei.io/projects/)
 <br/>
 
-## My Skill Set
+
+<table><tr><td valign="top" width="50%">
+
+### My Skill Set
+    
 <div align="center">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" />
@@ -30,38 +34,47 @@
 </div>
 <br/>
 
-## Connect with me
+</td><td valign="top" width="50%">
+
+### Connect with me
+
 <div align="center">
     <a href="https://twitter.com/wey_gu" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" height="20" />
     </a>
     <a href="https://linkedin.com/in/weygu" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="20" />
     </a>
     <a href="https://www.facebook.com/Weyl.GU" target="_blank">
-        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" height="20" />
     </a>
     <a href="https://instagram.com/siwei.gu" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="20" />
     </a>
     <a href="https://stackoverflow.com/users/1402404" target="_blank">
-        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" height="20" />
     </a>
     <a href="https://www.youtube.com/user/wey_gu" target="_blank">
-        <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-    </a>
+        <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" height="20" />
+    </a>    
+
 </div>
 <br/>
 
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+</td></tr></table>  
 <br/>
 
-## Nebula Graph 学习路径
 
-[![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
+<table><tr><td valign="top" width="50%">
 
-## Recent Blog Posts
+### GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td><td valign="top" width="50%">
+
+### Recent Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Nebula Graph 的 Java 数据解析实践与指导](https://siwei.io/nebula-java-happy-parsing-guide/)
 - [从零到一：如何构建一个企业股权图谱系统？](https://siwei.io/corp-rel-graph/)
@@ -69,6 +82,13 @@
 - [Nebula CLion，搭建基于 Docker 的 Nebula Graph CLion 开发环境](https://siwei.io/nebula-clion/)
 - [Nebula Holdshare Dataset，图数据库的股权穿透](https://siwei.io/nebula-holdshare-dataset/)
 <!-- BLOG-POST-LIST:END -->
+
+</td></tr></table>  
+<br/>
+
+## Nebula Graph 学习路径
+
+[![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
 
 
 ## Music I am listenning
