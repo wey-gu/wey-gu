@@ -73,7 +73,6 @@
 - [从零到一：如何构建一个企业股权图谱系统？](https://siwei.io/corp-rel-graph/)
 - [Nebula Siwi，基于图数据库的智能问答助手](https://siwei.io/nebula-siwi/)
 - [Nebula CLion，搭建基于 Docker 的 Nebula Graph CLion 开发环境](https://siwei.io/nebula-clion/)
-- [Nebula Holdshare Dataset，图数据库的股权穿透](https://siwei.io/nebula-holdshare-dataset/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
