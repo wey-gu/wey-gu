@@ -1,4 +1,4 @@
-[![siwei.io](https://user-images.githubusercontent.com/1651790/145385868-0d3ae801-ed26-4f68-9848-89b53fdf6aed.png)](https://siwei.io)
+[![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://siwei.io)
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Wey, I like building things 👨‍💻, troubleshoot and singing.</div>
 
