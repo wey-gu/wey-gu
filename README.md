@@ -29,7 +29,7 @@
 ---------------------------
 
 
-- 🧙🏻 My passion lies on learning Magic and helping other wizards/witches by Scaling the Magic.
+- 🧙🏻 My passion lies on learning Magic and Scaling the Magic/helping other wizards and witches.
 - 🧚 For now, the Magic I have been mainly working on is Graph Tech.
 - ❓ Ask me anything about Graph/ Graph Databases.
 - ⚡ Check out the toy/sample projects help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://siwei.io/projects/).
