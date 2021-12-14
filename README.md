@@ -1,6 +1,6 @@
 [![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://siwei.io)
 
-### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Wey, I like building things 👨‍💻, troubleshoot and singing.</div>
+### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Wey,  one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <div align="center">
     <a href="https://siwei.io/" target="_blank">
@@ -28,12 +28,10 @@
 
 ---------------------------
 
-
-- 🧙🏻 My passion lies on learning Magic and Scaling the Magic/helping other wizards and witches.
+- 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
 - 🧚 For now, the Magic I have been mainly working on is Graph Tech.
 - ❓ Ask me anything about Graph/ Graph Databases.
-- ⚡ Check out the toy/sample projects help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://siwei.io/projects/).
-
+- ⚡ Check out the toy/sample projects to help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://siwei.io/projects/).
 
 <br/>
 
