@@ -26,6 +26,7 @@
     </a>
 </div>
 
+
 ---------------------------
 
 - 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
@@ -91,7 +92,7 @@
 
 ### GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&theme=react&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
@@ -112,6 +113,7 @@
 
 [![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
 
+[![Github Activities](https://activity-graph.herokuapp.com/graph?username=wey-gu&theme=react-dark)](https://github.com/wey-gu)
 
 <br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div>
@@ -123,5 +125,6 @@
 <br/>
 <br/>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!--
+  <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-->
