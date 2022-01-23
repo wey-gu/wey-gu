@@ -116,7 +116,7 @@
 [![Github Activities](https://activity-graph.herokuapp.com/graph?username=wey-gu&theme=react-dark)](https://github.com/wey-gu)
 
 <br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div> -->
 <br/>
 
 <div align="center">
