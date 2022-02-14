@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: wey-g/github-readme-stats@main
+        uses: wey-gu/github-readme-stats@main
 
       - name: Push README
         uses: github-actions-x/commit@v2.6
