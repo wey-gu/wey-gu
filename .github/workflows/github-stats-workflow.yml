@@ -11,7 +11,8 @@ on:
 env:
   GITHUB_NAME: wey-gu
   GITHUB_EMAIL: weyl.gu@gmail.com
-  STARED_NUMBER: 10
+  WITH_STARED: false
+  STATS_FILE_PATH: github-stats.md
 
 jobs:
   build:
