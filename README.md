@@ -99,11 +99,11 @@
 ### Recent Blog Posts in [siwei.io](https://siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
 - [图数据库体操：用 Nebula Graph 搭成语图谱解汉兜](https://siwei.io/resolve-wordle/)
 - [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
 - [为什么我的 Nebula-Spark-Connector、Nebula-Algorithm 连不上 K8s 部署的 Nebula Graph 集群？](https://siwei.io/nebula-algo-spark-k8s/)
 - [从零到一：如何构建一个基于知识图谱的智能问答助手？](https://siwei.io/siwi/)
-- [快速搭建调试 Nebula Graph Python Storage 客户端的环境](https://siwei.io/nebula-python-storage-docker-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
