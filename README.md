@@ -1,9 +1,9 @@
-[![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://siwei.io)
+[![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://www.siwei.io)
 
 ### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Wey,  one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <div align="center">
-    <a href="https://siwei.io/" target="_blank">
+    <a href="https://www.siwei.io/" target="_blank">
         <img src=https://img.shields.io/badge/blog-siwei.io-red?&style=for-the-badge alt=youtube style="margin-bottom: 5px;" height="26" />
     </a>
     <a href="https://twitter.com/wey_gu" target="_blank">
@@ -32,7 +32,7 @@
 - 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
 - 🧚 For now, the Magic I have been mainly working on is Graph Tech.
 - ❓ Ask me anything about Graph/ Graph Databases.
-- ⚡ Check out the toy/sample projects to help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://siwei.io/projects/).
+- ⚡ Check out the toy/sample projects to help you make more sense of the Nebula Graph Database [siwei.io/projects/](https://www.siwei.io/projects/).
 
 <br/>
 
@@ -96,7 +96,7 @@
 
 </td><td valign="top" width="50%">
 
-### Recent Blog Posts in [siwei.io](https://siwei.io)
+### Recent Blog Posts in [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
 - [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
