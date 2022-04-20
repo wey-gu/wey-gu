@@ -88,15 +88,15 @@
 </div>
 <br/>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 ### GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&theme=react&count_private=true&hide_border=true" align="center" /></div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
-### Recent Blog Posts in [siwei.io](https://www.siwei.io)
+### Recent Chinese Blog Posts in [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
 - [Spark on Nebula Graph](https://siwei.io/spark-on-nebula-graph/)
@@ -105,6 +105,18 @@
 - [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
 - [为什么我的 Nebula-Spark-Connector、Nebula-Algorithm 连不上 K8s 部署的 Nebula Graph 集群？](https://siwei.io/nebula-algo-spark-k8s/)
 <!-- BLOG-POST-LIST:END -->
+
+</td><td valign="top" width="33%">
+
+### Recent English Blog Posts in [siwei.io](https://www.siwei.io)
+
+<!-- BLOG_EN_LIST:START -->
+- [Spark on Nebula Graph](https://siwei.io/spark-on-nebula-graph/)
+- [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
+- [图数据库体操：用 Nebula Graph 搭成语图谱解汉兜](https://siwei.io/resolve-wordle/)
+- [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
+- [为什么我的 Nebula-Spark-Connector、Nebula-Algorithm 连不上 K8s 部署的 Nebula Graph 集群？](https://siwei.io/nebula-algo-spark-k8s/)
+<!-- BLOG_EN_LIST:END -->
 
 </td></tr></table>  
 <br/>
