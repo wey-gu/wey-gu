@@ -111,11 +111,11 @@
 ### Recent English Blog Posts in [siwei.io](https://www.siwei.io)
 
 <!-- BLOG_EN_LIST:START -->
-- [Spark on Nebula Graph](https://siwei.io/spark-on-nebula-graph/)
-- [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
-- [图数据库体操：用 Nebula Graph 搭成语图谱解汉兜](https://siwei.io/resolve-wordle/)
-- [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
-- [为什么我的 Nebula-Spark-Connector、Nebula-Algorithm 连不上 K8s 部署的 Nebula Graph 集群？](https://siwei.io/nebula-algo-spark-k8s/)
+- [Spark on Nebula Graph](https://siwei.io/en/spark-on-nebula-graph/)
+- [Nebula Graph on Pi](https://siwei.io/en/nebula-graph-on-pi/)
+- [What happens to Wordle and Chinese idiom Knowledge Graph?](https://siwei.io/en/resolve-wordle/)
+- [Nebula Index Explained](https://siwei.io/en/nebula-index-explained/)
+- [Nebula Java Happy Parsing Guide](https://siwei.io/en/nebula-java-happy-parsing-guide/)
 <!-- BLOG_EN_LIST:END -->
 
 </td></tr></table>  
