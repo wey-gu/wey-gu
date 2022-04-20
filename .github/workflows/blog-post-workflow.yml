@@ -14,4 +14,10 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://siwei.io/index.xml"
+          feed_list: "https://www.siwei.io/index.xml"
+      - name: Pull in en blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG_EN_LIST"
+          commit_message: "Updated EN BLOG"
+          feed_list: "https://www.siwei.io/en/index.xml"
