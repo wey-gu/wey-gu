@@ -96,7 +96,7 @@
 
 </td><td valign="top" width="33%">
 
-### Recent Chinese Blog Posts in [siwei.io](https://www.siwei.io)
+### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
 - [Spark on Nebula Graph](https://siwei.io/spark-on-nebula-graph/)
@@ -108,7 +108,7 @@
 
 </td><td valign="top" width="33%">
 
-### Recent English Blog Posts in [siwei.io](https://www.siwei.io)
+### Recent Posts in [siwei.io](https://www.siwei.io)
 
 <!-- BLOG_EN_LIST:START -->
 - [Spark on Nebula Graph](https://siwei.io/en/spark-on-nebula-graph/)
