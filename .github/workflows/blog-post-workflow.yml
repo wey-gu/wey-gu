@@ -15,6 +15,12 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.siwei.io/index.xml"
+  update-readme-with-en-blog:
+    name: Update this repo's README with latest en blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: Pull in en blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
