@@ -99,7 +99,7 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
-- [Spark on Nebula Graph](https://siwei.io/spark-on-nebula-graph/)
+- [一文了解 Nebula Graph 上的 Spark 项目](https://siwei.io/spark-on-nebula-graph/)
 - [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
 - [图数据库体操：用 Nebula Graph 搭成语图谱解汉兜](https://siwei.io/resolve-wordle/)
 - [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
