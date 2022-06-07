@@ -1,6 +1,6 @@
 [![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://www.siwei.io)
 
-### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Wey,  one who likes building things 👨‍💻, troubleshoot, and singing.</div>
+### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm Wey,  one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <div align="center">
     <a href="https://www.siwei.io/" target="_blank">
