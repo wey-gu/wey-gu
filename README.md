@@ -111,11 +111,11 @@
 ### Recent Posts in [siwei.io/en](https://www.siwei.io/en/)
 
 <!-- BLOG_EN_LIST:START -->
+- [A Data Lineage OSS Reference Solution](https://siwei.io/en/data-lineage-oss-ref-solution/)
 - [Spark on Nebula Graph](https://siwei.io/en/spark-on-nebula-graph/)
 - [Nebula Graph on Pi](https://siwei.io/en/nebula-graph-on-pi/)
 - [What happens to Wordle and Chinese idiom Knowledge Graph?](https://siwei.io/en/resolve-wordle/)
 - [Nebula Index Explained](https://siwei.io/en/nebula-index-explained/)
-- [Nebula Java Happy Parsing Guide](https://siwei.io/en/nebula-java-happy-parsing-guide/)
 <!-- BLOG_EN_LIST:END -->
 
 </td></tr></table>  
