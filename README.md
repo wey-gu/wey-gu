@@ -99,11 +99,11 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vesoft Hackathon 2022 流水账](https://siwei.io/vesoft-hackathon/)
 - [基于 NebulaGraph 图数据库的欺诈检测方法与代码示例](https://siwei.io/fraud-detection-with-nebulagraph/)
 - [一文了解 Nebula Graph 上的 Spark 项目](https://siwei.io/spark-on-nebula-graph/)
 - [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
 - [图数据库体操：用 Nebula Graph 搭成语图谱解汉兜](https://siwei.io/resolve-wordle/)
-- [Nebula Graph 索引详解](https://siwei.io/nebula-index-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
