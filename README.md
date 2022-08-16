@@ -99,7 +99,7 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
-- [nGQL 简明教程](https://siwei.io/ngql-tutorial/)
+- [nGQL 简明教程，第一期](https://siwei.io/ngql-tutorial/)
 - [基于 NebulaGraph 图数据库的 ID Resolution 方法与代码示例](https://siwei.io/identity-resolution/)
 - [Vesoft Hackathon 2022 流水账](https://siwei.io/vesoft-hackathon/)
 - [基于 NebulaGraph 图数据库的欺诈检测方法与代码示例](https://siwei.io/fraud-detection-with-nebulagraph/)
