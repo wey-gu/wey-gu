@@ -101,9 +101,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [nGQL 简明教程，第一期](https://siwei.io/ngql-tutorial/)
 - [基于 NebulaGraph 图数据库的 ID Resolution 方法与代码示例](https://siwei.io/identity-resolution/)
-- [Vesoft Hackathon 2022 流水账](https://siwei.io/vesoft-hackathon/)
 - [基于 NebulaGraph 图数据库的欺诈检测方法与代码示例](https://siwei.io/fraud-detection-with-nebulagraph/)
 - [一文了解 Nebula Graph 上的 Spark 项目](https://siwei.io/spark-on-nebula-graph/)
+- [Nebula Graph on Pi](https://siwei.io/nebula-graph-on-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
