@@ -99,11 +99,11 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [基于图数据库的推荐系统](https://siwei.io/recommendation-system-with-graphdb/)
 - [NebulaGraph 内核贡献开发指南](https://siwei.io/nebulagraph-hacking-guide/)
 - [nGQL 简明教程，第二期 nGQL 执行计划详解与调优](https://siwei.io/ngql-execution-plan/)
 - [nGQL 简明教程，第一期](https://siwei.io/ngql-tutorial/)
 - [基于 NebulaGraph 图数据库的 ID Resolution 方法与代码示例](https://siwei.io/identity-resolution/)
-- [基于 NebulaGraph 图数据库的欺诈检测方法与代码示例](https://siwei.io/fraud-detection-with-nebulagraph/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
