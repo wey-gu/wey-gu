@@ -99,11 +99,11 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [图数据库的社交网络应用](https://siwei.io/nebulagraph-sns/)
 - [chatGPT 加 NebulaGraph 预测 2022 世界杯冠军球队](https://siwei.io/chatgpt-and-nebulagraph-predict-fifa-world-cup/)
 - [基于开源技术栈的数据血缘、治理参考解决方案](https://siwei.io/data-lineage-oss-ref-solution/)
 - [NebulaGraph 的云原生 API 网关最佳实践](https://siwei.io/apisix-and-nebulagraph/)
 - [利用 dbt，基于表结构的 Nebulagraph 图建模与 ETL](https://siwei.io/nebulagraph-etl-dbt/)
-- [基于图数据库的推荐系统](https://siwei.io/recommendation-system-with-graphdb/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
