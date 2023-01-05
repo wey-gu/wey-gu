@@ -125,7 +125,8 @@
 
 [![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
 
-[![Github Activities](https://activity-graph.herokuapp.com/graph?username=wey-gu&theme=react-dark)](https://github.com/wey-gu)
+[![Github Activities](https://github-readme-activity-graph.cyclic.app/graph?username=wey-gu&theme=react-dark)](https://github.com/wey-gu)
+
 
 <br/>
 <!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div> -->
