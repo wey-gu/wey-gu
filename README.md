@@ -111,11 +111,11 @@
 ### Recent Posts in [siwei.io/en](https://www.siwei.io/en/)
 
 <!-- BLOG_EN_LIST:START -->
+- [Social Network with NebulaGraph](https://siwei.io/en/nebulagraph-sns/)
 - [Use ChatGPT and Nebulagraph to Predict Fifa World Cup](https://siwei.io/en/chatgpt-and-nebulagraph-predict-fifa-world-cup/)
 - [Tabular Data ETL to NebulaGraph with dbt](https://siwei.io/en/nebulagraph-etl-dbt/)
 - [Fraud Detection with NebulaGraph GraphDatabase in action](https://siwei.io/en/fraud-detection-with-nebulagraph/)
 - [A Data Lineage OSS Reference Solution](https://siwei.io/en/data-lineage-oss-ref-solution/)
-- [Spark on Nebula Graph](https://siwei.io/en/spark-on-nebula-graph/)
 <!-- BLOG_EN_LIST:END -->
 
 </td></tr></table>  
