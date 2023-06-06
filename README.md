@@ -100,10 +100,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NebulaGraph in Jupyter Notebook](https://siwei.io/nebulagraph-in-jupyter-notebook/)
+- [图谱驱动的大语言模型 Llama Index](https://siwei.io/graph-enabled-llama-index/)
 - [Nebulagraph Artificial Intelligence Suite](https://siwei.io/nebulagraph-ai-suite/)
 - [图数据库驱动的基础设施运维示例](https://siwei.io/graph-enabled-infra-ops/)
 - [连接微信群、Slack 和 GitHub：社区开放沟通的基础设施搭建](https://siwei.io/build-open-communication-infra/)
-- [图数据库的社交网络应用](https://siwei.io/nebulagraph-sns/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
