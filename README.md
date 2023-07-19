@@ -99,11 +99,11 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [Text2Cypher：大语言模型驱动的图谱查询生成](https://siwei.io/llm-text-to-nebulagraph-query/)
 - [NebulaGraph in Jupyter Notebook](https://siwei.io/nebulagraph-in-jupyter-notebook/)
 - [图谱驱动的大语言模型 Llama Index](https://siwei.io/graph-enabled-llama-index/)
 - [Nebulagraph Artificial Intelligence Suite](https://siwei.io/nebulagraph-ai-suite/)
 - [图数据库驱动的基础设施运维示例](https://siwei.io/graph-enabled-infra-ops/)
-- [连接微信群、Slack 和 GitHub：社区开放沟通的基础设施搭建](https://siwei.io/build-open-communication-infra/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
