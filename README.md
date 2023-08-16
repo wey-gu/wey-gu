@@ -111,11 +111,11 @@
 ### Recent Posts in [siwei.io/en](https://www.siwei.io/en/)
 
 <!-- BLOG_EN_LIST:START -->
+- [Text2Cypher, the beginning of the Graph + LLM stack](https://siwei.io/en/llm-text-to-nebulagraph-query/)
 - [NebulaGraph in Jupyter Notebook](https://siwei.io/en/nebulagraph-in-jupyter-notebook/)
 - [Graph Enabled Llama Index](https://siwei.io/en/graph-enabled-llama-index/)
 - [Nebulagraph Artificial Intelligence Suite](https://siwei.io/en/nebulagraph-ai-suite/)
 - [Social Network with NebulaGraph](https://siwei.io/en/nebulagraph-sns/)
-- [Use ChatGPT and Nebulagraph to Predict Fifa World Cup](https://siwei.io/en/chatgpt-and-nebulagraph-predict-fifa-world-cup/)
 <!-- BLOG_EN_LIST:END -->
 
 </td></tr></table>  
