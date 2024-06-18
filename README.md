@@ -121,7 +121,7 @@
 </td></tr></table>  
 <br/>
 
-> 🗺️ Nebula Graph 入门路径
+> 🗺️ NebulaGraph 入门路径
 
 [![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
 
