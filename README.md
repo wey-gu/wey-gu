@@ -99,11 +99,11 @@
 ### 最近文章 [siwei.io](https://www.siwei.io)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fusion GraphRAG Introduced](https://siwei.io/fusion-graphrag-2025/)
 - [Graph RAG: 知识图谱结合 LLM 的检索增强](https://siwei.io/graph-rag/)
 - [Text2Cypher：大语言模型驱动的图谱查询生成](https://siwei.io/llm-text-to-nebulagraph-query/)
 - [NebulaGraph in Jupyter Notebook](https://siwei.io/nebulagraph-in-jupyter-notebook/)
 - [图谱驱动的大语言模型 Llama Index](https://siwei.io/graph-enabled-llama-index/)
-- [Nebulagraph Artificial Intelligence Suite](https://siwei.io/nebulagraph-ai-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="33%">
