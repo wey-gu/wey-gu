@@ -1,6 +1,6 @@
 [![siwei.io](https://user-images.githubusercontent.com/1651790/145577653-3fbbd5a3-8958-42c1-a38c-69ebfc473c50.png)](https://www.siwei.io)
 
-### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm Wey,  one who likes building things 👨‍💻, troubleshoot, and singing.</div>
+### <div align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I'm Wey, one who likes building things 👨‍💻, troubleshoot, and singing.</div>
 
 <div align="center">
     <a href="https://www.siwei.io/" target="_blank">
@@ -30,7 +30,7 @@
 ---------------------------
 
 - 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
-- 🧚 For now, the Magic I have been mainly working on is Graph Tech.
+- 🧚 For now, the Magic I have been mainly working on is GenAI && Graph Tech.
 - ❓ Ask me anything about Graph/ Graph Databases.
 - ⚡ Check out the toy/sample projects to help you make more sense of the NebulaGraph Database [siwei.io/projects/](https://www.siwei.io/projects/).
 
@@ -120,10 +120,6 @@
 
 </td></tr></table>  
 <br/>
-
-> 🗺️ NebulaGraph 入门路径
-
-[![Nebula Graph Learning Path](https://user-images.githubusercontent.com/1651790/145390033-8007d10b-1167-4431-96e1-6a23be0374a5.png)](https://miro.com/app/board/o9J_lhIe7dE=/)
 
 <br/>
 <!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=littlewey&cover_image=true&theme=default" /></div> -->
