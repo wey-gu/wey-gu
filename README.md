@@ -31,7 +31,7 @@
 
 - 🧙🏻 My passion lies in learning Spells and Scaling the Magic/ helping other wizards and witches.
 - 🧚 For now, the Magic I have been mainly working on is GenAI && Graph Tech.
-- ❓ Ask me anything about Graph/ Graph Databases.
+- ❓ Ask me anything about Graph/ Graph Databases/ Memory.
 - ⚡ Check out the toy/sample projects to help you make more sense of the NebulaGraph Database [siwei.io/projects/](https://www.siwei.io/projects/).
 
 <br/>
