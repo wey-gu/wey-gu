@@ -41,7 +41,7 @@
 
 ### GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wey-gu&show_icons=true&theme=react&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=wey-gu&show_icons=true&theme=tokyonight" align="center" /></div>
 
 </td><td valign="top" width="33%">
 
